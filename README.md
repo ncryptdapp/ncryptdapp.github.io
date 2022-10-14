@@ -35,7 +35,7 @@ body, html {
   <div class="w3-bar w3-white w3-card" id="myNavbar">
     <a href="#home" class="w3-bar-item w3-button w3-wide">LOGO</a>
     <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small">
+    <div class="w3-center w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK</a>
